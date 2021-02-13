@@ -1,0 +1,5 @@
+go to path
+
+cd knockpy/
+
+./knockpy.py abc.com -w /usr/share/wordlist/Seclist/   \\ for enumaration subdomain usinng wordlist
